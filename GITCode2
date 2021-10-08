@@ -6,4 +6,7 @@ hello
 >>> b=3
 >>> print (a+b)
 5
+>>> c=5
+>>> print (a+b+c)
+10
 >>> 
